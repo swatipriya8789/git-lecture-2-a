@@ -1,2 +1,2 @@
-age2 = 99
-print(age2)
+age = 24
+print(age)
