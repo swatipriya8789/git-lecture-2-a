@@ -1,2 +1,1 @@
-This bug is resolved by Mayank Bajoria a student of NST.
-solved python questions.
+This bug should be solved by me.
